@@ -28,7 +28,7 @@ const Intro = () => {
               <small>React and Django Projects</small>
             </article>
           </div>
-          <p>I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript, building everything from landing pages to APIs. CAMBIAR</p>
+          <p>I’ve spent the last several months in a remote environment, working with HTML, CSS, and JavaScript, building everything from landing pages to APIs. In addition, I have developed expertise in REST API integration, utilizing frameworks such as React, Django, and TailwindCSS to create dynamic and responsive web applications. My proficiency in Python, Typescript, SQL, Material UI, and other essential programming tools enables me to deliver robust and efficient solutions for various projects.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
