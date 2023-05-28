@@ -18,7 +18,7 @@ const Testimonials = () => {
       link: 'https://www.linkedin.com/in/franciscoliegñini/',
       name: 'Francisco Liegñini',
       role: 'Estudiante en Instituto superior Santo Domingo',
-      test: 'As a developer and a problem solver, I think Meri is a great collaborative partner to have. I met Gus in some basic javascript & react projects and since then he has drastically progressed in his understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
+      test: 'As a developer and a problem solver, I think Gus is a great collaborative partner to have. I met Gus in some basic javascript & react projects and since then he has drastically progressed in his understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
     },
     {
       id: 2,
