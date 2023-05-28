@@ -36,36 +36,6 @@ const Portfolio = () => {
       link: '#portfolio',
       github: '#portfolio',
     },
-    {
-      id: 4,
-      title: 'Under Construction',
-      img: IMG2,
-      description:
-        'Under Construction',
-      technologies: 'Under Construction',
-      link: '#portfolio',
-      github: '#portfolio',
-    },
-    {
-      id: 5,
-      title: 'Under Construction',
-      img: IMG2,
-      description:
-        'Under Construction',
-      technologies: 'Under Construction',
-      link: '#portfolio',
-      github: '#portfolio',
-    },
-    {
-      id: 6,
-      title: 'Under Construction',
-      img: IMG2,
-      description:
-        'Under Construction',
-      technologies: 'Under Construction',
-      link: '#portfolio',
-      github: '#portfolio',
-    },
   ];
 
   return (
