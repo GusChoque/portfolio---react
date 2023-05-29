@@ -62,3 +62,8 @@ footer a {
         margin-bottom: 2.6rem;
     }
 }
+
+.footer__end {
+    display: flex;
+    justify-content: center;
+}

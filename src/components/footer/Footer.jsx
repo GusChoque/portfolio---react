@@ -13,9 +13,9 @@ const Footer = () => {
   
   return (
     <footer>
-      <a href="#home" className="footer__logo">Gus-Choque</a>
+      <a href="#home" className="footer__logo">Home</a>
       <ul className="permalinks">
-        <li><a href="#home">Home</a></li>
+        {/* <li><a href="#home">Home</a></li> */}
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Skills</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
@@ -28,7 +28,8 @@ const Footer = () => {
       <a href="https://www.instagram.com/guty.choque/" target="_blank" rel="noreferrer" ><FaInstagram /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ET {getYear()}. All rights reserved.</small>
+        <small className="footer__end">Thank you! Come visit again. ♥</small>
+        <small className="footer__end">&copy; {getYear()}.</small>
       </div>
     </footer>
   )

@@ -49,7 +49,7 @@ const Testimonials = () => {
         {testimonials.map((test) => (
           <SwiperSlide className="testimonial" key={test.id}>
           <div className="client__avatar">
-            <a href={test.link}>
+            <a href={test.link} target="_blank" rel="noreferrer">
               <BsLinkedin />
             </a>
           </div>
