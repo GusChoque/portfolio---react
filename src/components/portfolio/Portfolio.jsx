@@ -8,7 +8,7 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'ABM',
+      title: 'GUTI - ITSM',
       img: IMG1,
       description:
         'GUTI is an information technology service management solution, incident tracking system and service desk solution.',
