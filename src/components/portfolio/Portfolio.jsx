@@ -14,7 +14,7 @@ const Portfolio = () => {
         'GUTI is an information technology service management solution, incident tracking system and service desk solution.',
       technologies: 'React | Redux | TypeScript | Django | Python',
       link: '#portfolio',
-      github: 'https://github.com/GusChoque/portfolio---react',
+      github: '#portfolio',
     },
     {
       id: 2,
